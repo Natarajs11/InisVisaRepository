@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="19.57">
+    <testcase classname="To check Functonality of Indian visa status for Ireland" name="User is on the inis website" time="18.936">
+        <system-out><![CDATA[Given user has visited inis website.........................................passed
+When user select nationality from drop down list............................passed
+And hits select button......................................................passed
+Then user is navigated to visa-required page................................passed
+And when user select more than 3 months.....................................passed
+Then user is navigated to study page........................................passed
+And when user clicks on the study link......................................passed
+Then user is navigated to visa long study page..............................passed
+]]></system-out>
+    </testcase>
+</testsuite>
